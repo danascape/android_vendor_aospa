@@ -45,6 +45,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/oneplus7tpro/aospa_oneplus7tpro.mk \
     $(LOCAL_DIR)/oneplus9/aospa_oneplus9.mk \
     $(LOCAL_DIR)/oneplus9r/aospa_oneplus9r.mk \
+    $(LOCAL_DIR)/oneplusn10/aospa_oneplusn10.mk \
     $(LOCAL_DIR)/oriole/aospa_oriole.mk \
     $(LOCAL_DIR)/panther/aospa_panther.mk \
     $(LOCAL_DIR)/pdx234/aospa_pdx234.mk \
@@ -93,6 +94,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_oneplus7tpro-userdebug \
     aospa_oneplus9-userdebug \
     aospa_oneplus9r-userdebug \
+    aospa_oneplusn10-userdebug \
     aospa_oriole-userdebug \
     aospa_panther-userdebug \
     aospa_pdx234-userdebug \
